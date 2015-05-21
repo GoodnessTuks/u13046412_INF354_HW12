@@ -2,4 +2,5 @@
 INF 354 Homework 12
 
 ### Group Members: ###
-* Goodness Adegbenro (u13046412)
+* Goodness Adegbenro (13046412)
+* Nonde Masondo   (13024419)
